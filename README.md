@@ -1,61 +1,51 @@
 <div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Wesley+Meireles+%F0%9F%91%8B;Desenvolvedor+Front-end+%2F+Fullstack;Apaixonado+por+Interfaces+Modernas" alt="Typing SVG" />
 
-  <p>
-    <a href="mailto:wesley@wezzesmeireles.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://linkedin.com/in/wesleymeireles"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Wesley%20Meireles&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Front-end%20%26%20Fullstack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-  <img src="https://komarev.com/ghpvc/?username=wezzesmeireles&label=Profile%20views&color=0e75b6&style=flat" alt="wezzesmeireles" />
+<p align="center">
+  <a href="mailto:wesley@wezzesmeireles.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/wesleymeireles"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=wezzesmeireles&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Views" />
+</p>
 
-</div>
+<br>
 
----
+### 👨‍💻 Sobre o Desenvolvedor
 
-### 🚀 Sobre mim
+*Transformando café em código e ideias em aplicações escaláveis.* <br>
+Tenho um foco profundo no ecossistema moderno e em arquiteturas robustas para resolver problemas reais.
 
-👨‍💻 Transformando café em código e ideias em aplicações escaláveis. Tenho grande foco no ecossistema **React e Next.js**, construindo desde SaaS complexos a E-commerces modernos.
+<br>
 
-- 🔭 Atualmente trabalhando na criação de soluções com alta performance e SEO.
-- 🌱 Aprofundando meus conhecimentos na stack **Next.js, TypeScript e TailwindCSS**.
-- 💡 Gosto de resolver problemas com arquitetura limpa e UI/UX refinada.
-- 💬 Me pergunte sobre: **React, Next.js, Vite, Front-end Architecture**.
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" width="50%" style="border: none;">
+      <h3>🛠️ Arsenal Tecnológico</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,bun,nodejs,git,figma,vue,python,firebase,rust,tauri,supabase,sass&theme=dark&perline=4" />
+      </a>
+    </td>
+    <td align="center" width="50%" style="border: none;">
+      <h3>🔥 Meu Ritmo (Streak)</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=wezzesmeireles&theme=react&hide_border=true&background=00000000" width="100%" />
+      <br><br>
+      <h3>💡 Filosofia</h3>
+      <code><img width="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> Tipagem</code><br>
+      <code><img width="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> Componentização</code><br>
+      <code><img width="16" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"> Estilização Ágil</code><br>
+      <code><img width="16" src="https://vitejs.dev/logo.svg"> Performance UX/DX</code>
+    </td>
+  </tr>
+</table>
 
----
+<br>
 
-### 💻 Stack Tecnológica
+### 📈 Visão Geral
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vite,bun,nodejs,git,figma,vue,python,firebase,rust,tauri,supabase,sass&theme=dark&perline=10" />
-  </a>
-</div>
+<img src="https://metrics.lecoq.io/wezzesmeireles?config.timezone=America%2FSao_Paulo" width="100%" />
 
----
+<br>
 
-### 📊 Minhas Estatísticas
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%"/>
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/wezzesmeireles?config.timezone=America%2FSao_Paulo" alt="Metrics" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wezzesmeireles&theme=radium&hide_border=true&background=0D1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" width="48%" />
-</div>
-
----
-
-### 🧠 Filosofia & Dicas de Ouro
-
-> *"Código bom é código que qualquer desenvolvedor consegue ler, entender e dar manutenção sem dor de cabeça."*
-
-| Princípio | Minha Visão |
-| :--- | :--- |
-| 🛡️ **Tipagem Estrita** | O TypeScript não te atrasa, ele documenta o seu código em tempo real e evita bugs em produção. |
-| 🧩 **Componentização** | Abstraia com inteligência. Evite a "otimização prematura", mas não tenha medo de dividir responsabilidades. |
-| 🎨 **Estilização Ágil** | TailwindCSS traz velocidade e consistência de design sem sair do HTML. Ideal para sistemas modernos. |
-| ⚡ **Performance (DX e UX)** | Ferramentas como Vite e Bun melhoram a nossa vida (DX). Otimizar imagens, fontes e scripts melhora a vida do usuário (UX). |
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=150&section=footer&text=Vamos%20construir%20algo%20incr%C3%ADvel!&fontSize=24&fontAlignY=70&descAlignY=80&descAlign=50" alt="Footer" />
 </div>
