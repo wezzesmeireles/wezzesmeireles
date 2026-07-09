@@ -34,23 +34,11 @@
 
 ---
 
-### 🏆 Troféus do GitHub
+### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wezzesmeireles&theme=radium&row=1&column=7&no-frame=true&no-bg=true" alt="Trophies" />
-</div>
-
----
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wezzesmeireles&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&title_color=0E75B6" width="48%" />
+  <img src="https://metrics.lecoq.io/wezzesmeireles?config.timezone=America%2FSao_Paulo" alt="Metrics" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wezzesmeireles&theme=radium&hide_border=true&background=0D1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" width="48%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wezzesmeireles&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&title_color=0E75B6" width="48%" />
 </div>
 
 ---
