@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:wesley@wezzesmeireles.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/wesleymeireles"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/wesley-meirelles-a42243328/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://komarev.com/ghpvc/?username=wezzesmeireles&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Views" />
 </p>
 
