@@ -1,59 +1,73 @@
-<h1 align="center">Olá, eu sou Wesley Meireles (wezzesmeireles) 👋</h1>
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Wesley+Meireles+%F0%9F%91%8B;Desenvolvedor+Front-end+%2F+Fullstack;Apaixonado+por+Interfaces+Modernas" alt="Typing SVG" />
 
-<h3 align="center">Desenvolvedor Front-end / Fullstack apaixonado por criar interfaces modernas e performáticas.</h3>
+  <p>
+    <a href="mailto:wesley@wezzesmeireles.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com/in/wesleymeireles"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  </p>
 
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=wezzesmeireles&label=Profile%20views&color=0e75b6&style=flat" alt="wezzesmeireles" />
-</p>
+
+</div>
 
 ---
 
-### 👨‍💻 Sobre mim
+### 🚀 Sobre mim
 
-- 💻 Atualmente trabalhando em **projetos modernos focados em SaaS, E-commerce e Sistemas Web.**
-- 🚀 Minha stack principal gira em torno do ecossistema **React e Next.js.**
-- 💡 Gosto de resolver problemas complexos com código limpo e componentes reutilizáveis.
-- 🎯 Foco em performance, SEO e a melhor experiência de usuário (UX/UI).
+👨‍💻 Transformando café em código e ideias em aplicações escaláveis. Tenho grande foco no ecossistema **React e Next.js**, construindo desde SaaS complexos a E-commerces modernos.
 
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/> </a> 
-  <a href="https://bun.sh" target="_blank" rel="noreferrer"> <img src="https://bun.sh/logo.svg" alt="bun" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-</p>
+- 🔭 Atualmente trabalhando na criação de soluções com alta performance e SEO.
+- 🌱 Aprofundando meus conhecimentos na stack **Next.js, TypeScript e TailwindCSS**.
+- 💡 Gosto de resolver problemas com arquitetura limpa e UI/UX refinada.
+- 💬 Me pergunte sobre: **React, Next.js, Vite, Front-end Architecture**.
 
 ---
 
-### 📊 Minhas Estatísticas
+### 💻 Stack Tecnológica
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wezzesmeireles&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wezzesmeireles&theme=radium&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wezzesmeireles&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Linguagens" />
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vite,bun,nodejs,git,figma&theme=dark&perline=10" />
+  </a>
+</div>
 
 ---
 
-### 💡 Minhas Dicas de Ouro (Filosofia de Código)
+### 🏆 Troféus do GitHub
 
-1. **Tipagem salva vidas:** Use TypeScript sempre que possível. O tempo gasto tipando retorna em dobro em produtividade e menos bugs em produção.
-2. **Componentização inteligente:** Crie componentes pensando em reutilização, mas não faça otimização prematura. Se precisa ser usado 3 vezes, abstraia.
-3. **TailwindCSS para velocidade:** O Tailwind não deixa o HTML feio, ele deixa o CSS escalável. Mantenha os arquivos de configuração organizados.
-4. **Estado local vs Global:** Nem tudo precisa ir para um Redux ou Zustand. Use o estado mais próximo possível de onde ele será consumido.
-5. **Ferramentas rápidas:** Vite e Bun são divisores de águas no ecossistema moderno. DX (Developer Experience) importa muito!
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wezzesmeireles&theme=radium&row=1&column=7&no-frame=true&no-bg=true" alt="Trophies" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Vamos%20codar!&fontSize=30" alt="Footer" />
-</p>
+### 📊 Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wezzesmeireles&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&title_color=0E75B6" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wezzesmeireles&theme=radium&hide_border=true&background=0D1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" width="48%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wezzesmeireles&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&title_color=0E75B6" width="48%" />
+</div>
+
+---
+
+### 🧠 Filosofia & Dicas de Ouro
+
+> *"Código bom é código que qualquer desenvolvedor consegue ler, entender e dar manutenção sem dor de cabeça."*
+
+| Princípio | Minha Visão |
+| :--- | :--- |
+| 🛡️ **Tipagem Estrita** | O TypeScript não te atrasa, ele documenta o seu código em tempo real e evita bugs em produção. |
+| 🧩 **Componentização** | Abstraia com inteligência. Evite a "otimização prematura", mas não tenha medo de dividir responsabilidades. |
+| 🎨 **Estilização Ágil** | TailwindCSS traz velocidade e consistência de design sem sair do HTML. Ideal para sistemas modernos. |
+| ⚡ **Performance (DX e UX)** | Ferramentas como Vite e Bun melhoram a nossa vida (DX). Otimizar imagens, fontes e scripts melhora a vida do usuário (UX). |
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=150&section=footer&text=Vamos%20construir%20algo%20incr%C3%ADvel!&fontSize=24&fontAlignY=70&descAlignY=80&descAlign=50" alt="Footer" />
+</div>
