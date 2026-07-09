@@ -48,6 +48,17 @@ Tenho um foco profundo no ecossistema moderno e em arquiteturas robustas para re
 
 <br>
 
+<div align="center">
+  <h3>🐍 O Código não Para (Snake Animation)</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wezzesmeireles/wezzesmeireles/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wezzesmeireles/wezzesmeireles/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wezzesmeireles/wezzesmeireles/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%"/>
 
 </div>
