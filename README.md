@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Wesley%20Meireles&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Front-end%20%26%20Fullstack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Wesley+Meireles+%F0%9F%91%8B;>_++Desenvolvedor+Front-end+%2F+Fullstack;>_++Apaixonado+por+Interfaces+Modernas" alt="Typing SVG" />
+<br>
 
 <p align="center">
   <a href="mailto:wesley@wezzesmeireles.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
