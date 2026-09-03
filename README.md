@@ -21,9 +21,9 @@
 
 *Transformando café em código e ideias em experiências digitais.*
 
-Desenvolvedor com foco no ecossistema web moderno, interfaces bem construídas e arquiteturas capazes de evoluir junto com o produto. Este perfil reúne projetos, experimentos e o conhecimento que consolido na prática.
+Desenvolvedor com foco no ecossistema web moderno, interfaces bem construídas e arquiteturas capazes de evoluir junto com o produto. Também atuo com infraestrutura de redes, configuração de ambientes e manutenção de computadores. Este perfil reúne projetos, experimentos e o conhecimento que consolido na prática.
 
-🔭 Construindo soluções **front-end e full stack** · 🌱 Evoluindo um pouco a cada commit · 🤝 Aberto a colaborações
+🔭 Construindo soluções **front-end e full stack** · 🖧 Infraestrutura e redes · 🌱 Evoluindo a cada commit · 🤝 Aberto a colaborações
 
 </div>
 
@@ -31,9 +31,32 @@ Desenvolvedor com foco no ecossistema web moderno, interfaces bem construídas e
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://mvdelivery.com.br">🚀 MV Delivery</a></h3>
+      <p><strong>Plataforma completa de operação para delivery próprio.</strong> Centraliza cardápio digital, pedidos, PDV, gestão de mesas e impressão automática em uma experiência integrada para o estabelecimento e seus clientes.</p>
+      <ul>
+        <li>Aplicação web responsiva e versão desktop com Tauri.</li>
+        <li>Back-end e banco de dados PocketBase executados em VPS com Docker.</li>
+        <li>Frontend publicado na Vercel, validações automatizadas e suporte a PWA.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/PocketBase-B8DBE4?style=flat-square&logo=pocketbase&logoColor=111827" alt="PocketBase" />
+        <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+      <a href="https://mvdelivery.com.br">Conhecer o MV Delivery →</a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/wezzesmeireles/liberty-discord">🛰️ Liberty Discord</a></h3>
       <p>VPN com split tunnel focada no Discord, seleção automática do menor ping e interface Cyber Glass. Possui builds para Windows, macOS, Ubuntu e Fedora.</p>
+      <ul>
+        <li>Somente o tráfego do Discord passa pela VPN.</li>
+        <li>Seleção de rota por latência e restauração segura da rede.</li>
+      </ul>
       <p>
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
         <img src="https://img.shields.io/badge/Wails-DF0000?style=flat-square&logo=wails&logoColor=white" alt="Wails" />
@@ -44,6 +67,10 @@ Desenvolvedor com foco no ecossistema web moderno, interfaces bem construídas e
     <td width="50%" valign="top">
       <h3><a href="https://github.com/wezzesmeireles/pedago-shop">🛍️ Pedago Shop</a></h3>
       <p>Plataforma web estruturada como monorepo, com aplicação Vue e TypeScript, serviços de back-end e integrações com Supabase e Appwrite.</p>
+      <ul>
+        <li>Arquitetura compartilhada por aplicações e pacotes.</li>
+        <li>Integrações de autenticação, dados e funções serverless.</li>
+      </ul>
       <p>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -105,6 +132,28 @@ Desenvolvedor com foco no ecossistema web moderno, interfaces bem construídas e
 - Prototipação e comunicação visual com Figma.
 - Ambientes consistentes e reproduzíveis com Docker.
 
+## 🖧 Infraestrutura, redes e computadores
+
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux,powershell,bash,docker&theme=dark&perline=5" alt="Windows, Linux, PowerShell, Bash e Docker" />
+</p>
+
+Além do desenvolvimento de software, trabalho com a base que mantém sistemas e equipes funcionando:
+
+- Configuração e diagnóstico de redes locais, Wi-Fi, roteadores e switches.
+- Fundamentos e resolução de problemas com TCP/IP, DNS, DHCP, VPN e firewall.
+- Montagem, manutenção preventiva e corretiva, limpeza e upgrade de computadores.
+- Instalação e configuração de Windows, Linux, drivers, aplicativos e periféricos.
+- Organização de ambientes, backups, segurança básica e suporte ao usuário.
+
+<p>
+  <img src="https://img.shields.io/badge/TCP%2FIP-0F172A?style=flat-square&logo=cisco&logoColor=38BDF8" alt="TCP/IP" />
+  <img src="https://img.shields.io/badge/DNS-0F172A?style=flat-square&logo=cloudflare&logoColor=F38020" alt="DNS" />
+  <img src="https://img.shields.io/badge/DHCP-0F172A?style=flat-square&logo=serverfault&logoColor=818CF8" alt="DHCP" />
+  <img src="https://img.shields.io/badge/VPN-0F172A?style=flat-square&logo=wireguard&logoColor=EF4444" alt="VPN" />
+  <img src="https://img.shields.io/badge/Hardware-0F172A?style=flat-square&logo=framework&logoColor=C084FC" alt="Hardware" />
+</p>
+
 ## 🧠 Conhecimento além das ferramentas
 
 | Área | O que aplico e estudo |
@@ -114,6 +163,7 @@ Desenvolvedor com foco no ecossistema web moderno, interfaces bem construídas e
 | **Arquitetura** | Separação de responsabilidades, código limpo e componentes reutilizáveis |
 | **Back-end** | APIs, concorrência com Go, validação, autenticação e tratamento de erros |
 | **Dados e SQL** | Modelagem relacional, consultas, índices, PostgreSQL, MariaDB e serviços em tempo real |
+| **Infraestrutura** | Redes locais, TCP/IP, DNS, DHCP, VPN, Windows, Linux e manutenção de computadores |
 | **Entrega** | Git, documentação, automação, containers e melhoria contínua |
 
 ### 🚀 Em aprofundamento
