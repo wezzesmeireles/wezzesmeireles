@@ -1,100 +1,104 @@
 <div align="center">
 
-# Olá, eu sou o Wesley 👋
+<br />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Desenvolvedor+em+constante+evolu%C3%A7%C3%A3o;Transformando+ideias+em+experi%C3%AAncias+digitais;Aprendendo%2C+construindo+e+compartilhando" alt="Animação de texto apresentando Wesley" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Wesley+Meireles+%F0%9F%91%8B;Desenvolvedor+Front-end+%2F+Full+Stack;Interfaces+modernas+e+solu%C3%A7%C3%B5es+escal%C3%A1veis;Sempre+aprendendo%2C+sempre+construindo" alt="Apresentação animada de Wesley Meireles" />
 </a>
 
 <p>
-  <a href="https://github.com/wezzesmeireles?tab=followers"><img src="https://img.shields.io/github/followers/wezzesmeireles?style=for-the-badge&logo=github&label=Seguidores&color=7c3aed" alt="Seguidores no GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=wezzesmeireles&style=for-the-badge&color=7c3aed&label=VISITAS" alt="Visualizações do perfil" />
+  <a href="mailto:wesley@wezzesmeireles.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para Wesley" /></a>
+  <a href="https://www.linkedin.com/in/wesley-meirelles-a42243328/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Wesley" /></a>
+  <a href="https://github.com/wezzesmeireles?tab=followers"><img src="https://img.shields.io/github/followers/wezzesmeireles?style=for-the-badge&logo=github&label=Seguidores&color=181717" alt="Seguidores no GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=wezzesmeireles&label=Visitas&color=0e75b6&style=for-the-badge" alt="Visualizações do perfil" />
 </p>
+
+### 👨‍💻 Sobre mim
+
+*Transformando café em código e ideias em experiências digitais.*
+
+Desenvolvedor com foco no ecossistema web moderno, interfaces bem construídas e arquiteturas capazes de evoluir junto com o produto. Este perfil reúne projetos, experimentos e o conhecimento que consolido na prática.
+
+🔭 Construindo soluções **front-end e full stack** · 🌱 Evoluindo um pouco a cada commit · 🤝 Aberto a colaborações
 
 </div>
 
-## Sobre mim
+## 🛠️ Stack tecnológica
 
-Sou um desenvolvedor apaixonado por tecnologia e pela construção de soluções úteis. Este perfil acompanha minha evolução prática: projetos, experimentos e os conceitos que estou consolidando ao longo da jornada.
-
-- 🔭 Transformo aprendizado em projetos reais.
-- 🌱 Aprofundo meus conhecimentos em desenvolvimento **full stack**.
-- 🧠 Estudo código limpo, arquitetura, testes e boas práticas.
-- 🤝 Estou aberto a colaborar, trocar experiências e aprender em comunidade.
-- ⚡ Meu objetivo é evoluir um pouco a cada commit.
-
-## Stacks e conhecimentos
-
-### Front-end
+### Interfaces e experiência
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js e Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass,vite&theme=dark&perline=10" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue, Tailwind CSS, Sass e Vite" />
 </p>
 
-Construção de interfaces responsivas, componentização, consumo de APIs, gerenciamento de estado e atenção à experiência do usuário.
+- Componentização e interfaces responsivas com foco em usabilidade.
+- Aplicações React, Next.js e Vue com TypeScript.
+- Estilização escalável com Tailwind CSS e Sass.
+- Experiência de desenvolvimento e builds rápidos com Vite.
 
-### Back-end e dados
+### Back-end, desktop e dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mysql,mongodb&theme=dark" alt="Node.js, Express, Python, PostgreSQL, MySQL e MongoDB" />
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,python,rust,tauri,supabase,firebase&theme=dark&perline=7" alt="Node.js, Bun, Python, Rust, Tauri, Supabase e Firebase" />
 </p>
 
-APIs REST, autenticação, regras de negócio, modelagem de dados e integração entre aplicações e bancos relacionais ou NoSQL.
+- Serviços e APIs no ecossistema JavaScript/TypeScript com Node.js e Bun.
+- Aplicações desktop leves unindo interfaces web, Rust e Tauri.
+- Autenticação, persistência e serviços de back-end com Supabase e Firebase.
+- Python para automações, estudos e soluções orientadas a dados.
 
 ### Ferramentas e fluxo de trabalho
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman&theme=dark" alt="Git, GitHub, Docker, VS Code, Figma e Postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode&theme=dark&perline=5" alt="Git, GitHub, Docker, Figma e Visual Studio Code" />
 </p>
 
-Versionamento com Git, colaboração pelo GitHub, prototipação, documentação e testes de APIs, além de ambientes reproduzíveis com containers.
+- Versionamento e colaboração com Git e GitHub.
+- Prototipação e comunicação visual com Figma.
+- Ambientes consistentes e reproduzíveis com Docker.
 
-## Em evolução agora
+## 🧠 Conhecimento além das ferramentas
+
+| Área | O que aplico e estudo |
+| :--- | :--- |
+| **Front-end** | Design responsivo, acessibilidade, estado, composição e performance |
+| **Integrações** | Consumo de APIs, autenticação, validação e tratamento de erros |
+| **Arquitetura** | Separação de responsabilidades, código limpo e componentes reutilizáveis |
+| **Dados** | Modelagem, persistência, serviços em tempo real e back-end como serviço |
+| **Entrega** | Git, documentação, automação, containers e melhoria contínua |
+
+### 🚀 Em aprofundamento
 
 ```text
-Arquitetura de software  ███████░░░  aprofundando
-Testes automatizados     ██████░░░░  praticando
-Docker e CI/CD           █████░░░░░  evoluindo
-TypeScript avançado      ██████░░░░  consolidando
+Arquitetura de software  → decisões mais simples e sustentáveis
+Testes automatizados     → confiança para evoluir o código
+Docker e CI/CD           → entregas previsíveis e reproduzíveis
+TypeScript avançado      → contratos seguros e melhor experiência de desenvolvimento
 ```
 
-> Meu foco não é apenas colecionar tecnologias, mas entender quando e por que usar cada uma delas.
+> Mais importante do que colecionar tecnologias é entender quando, como e por que usar cada uma delas.
 
-## Estatísticas
+## 📊 Atividade e evolução
 
 <div align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=wezzesmeireles&show_icons=true&hide_border=true&theme=tokyonight&locale=pt-br" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=wezzesmeireles&show_icons=true&hide_border=true&theme=buefy&locale=pt-br" media="(prefers-color-scheme: light)" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=wezzesmeireles&show_icons=true&hide_border=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub de Wesley" />
-  </picture>
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wezzesmeireles&layout=compact&hide_border=true&theme=tokyonight&locale=pt-br" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wezzesmeireles&layout=compact&hide_border=true&theme=buefy&locale=pt-br" media="(prefers-color-scheme: light)" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wezzesmeireles&layout=compact&hide_border=true&theme=tokyonight&locale=pt-br" alt="Linguagens mais utilizadas por Wesley" />
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wezzesmeireles&theme=react&hide_border=true&background=00000000&locale=pt_BR" height="180" alt="Sequência de contribuições de Wesley" />
+  <br /><br />
+  <img src="https://metrics.lecoq.io/wezzesmeireles?config.timezone=America%2FSao_Paulo" width="100%" alt="Métricas do perfil de Wesley no GitHub" />
 </div>
 
-## Atividade
+## 🐍 Contribuições em movimento
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wezzesmeireles/wezzesmeireles/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wezzesmeireles/wezzesmeireles/output/github-contribution-grid-snake.svg" />
-    <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/wezzesmeireles/wezzesmeireles/output/github-contribution-grid-snake.svg" />
+    <img alt="Animação do calendário de contribuições do GitHub" src="https://raw.githubusercontent.com/wezzesmeireles/wezzesmeireles/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
-## Vamos nos conectar
-
-<div align="center">
-  <a href="https://github.com/wezzesmeireles">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de Wesley no GitHub" />
-  </a>
-</div>
-
----
+<br />
 
 <div align="center">
   <sub>Feito com curiosidade, código e vontade de evoluir.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%" alt="Rodapé animado em ondas" />
 </div>
