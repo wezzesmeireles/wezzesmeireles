@@ -27,7 +27,38 @@ Desenvolvedor com foco no ecossistema web moderno, interfaces bem construídas e
 
 </div>
 
+## ✨ Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/wezzesmeireles/liberty-discord">🛰️ Liberty Discord</a></h3>
+      <p>VPN com split tunnel focada no Discord, seleção automática do menor ping e interface Cyber Glass. Possui builds para Windows, macOS, Ubuntu e Fedora.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/Wails-DF0000?style=flat-square&logo=wails&logoColor=white" alt="Wails" />
+        <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white" alt="WireGuard" />
+      </p>
+      <a href="https://github.com/wezzesmeireles/liberty-discord/releases/latest">Ver última versão →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/wezzesmeireles/pedago-shop">🛍️ Pedago Shop</a></h3>
+      <p>Plataforma web estruturada como monorepo, com aplicação Vue e TypeScript, serviços de back-end e integrações com Supabase e Appwrite.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+      </p>
+      <a href="https://pedago-shop-plum.vercel.app">Abrir aplicação →</a>
+    </td>
+  </tr>
+</table>
+
 ## 🛠️ Stack tecnológica
+
+<div align="center">
+  <img src="./assets/stack-flow.svg" width="100%" alt="Fluxo animado da stack, da interface até o banco de dados" />
+</div>
 
 ### Interfaces e experiência
 
@@ -100,6 +131,8 @@ TypeScript avançado      → contratos seguros e melhor experiência de desenvo
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wezzesmeireles&theme=react&hide_border=true&background=00000000&locale=pt_BR" height="180" alt="Sequência de contribuições de Wesley" />
+  <br /><br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wezzesmeireles&bg_color=00000000&color=38bdf8&line=818cf8&point=c084fc&area=true&hide_border=true&custom_title=Atividade%20nos%20%C3%BAltimos%2031%20dias" width="100%" alt="Gráfico das atividades recentes de Wesley" />
   <br /><br />
   <img src="https://metrics.lecoq.io/wezzesmeireles?config.timezone=America%2FSao_Paulo" width="100%" alt="Métricas do perfil de Wesley no GitHub" />
 </div>
