@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-labelledby="title description">
+  <title id="title">Wesley Meireles — Full Stack Developer</title>
+  <desc id="description">Banner azul e violeta com partículas, linhas e tecnologias em movimento.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f" />
+      <stop offset="0.5" stop-color="#0b1730" />
+      <stop offset="1" stop-color="#100b2d" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8" />
+      <stop offset="0.5" stop-color="#818cf8" />
+      <stop offset="1" stop-color="#c084fc" />
+      <animate attributeName="x1" values="-1;1;-1" dur="7s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="0;2;0" dur="7s" repeatCount="indefinite" />
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity=".55" />
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#38bdf8" stroke-opacity=".08" />
+    </pattern>
+    <filter id="soft-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+    <path id="orbit" d="M125 110C230 10 670 10 775 110C670 210 230 210 125 110Z" />
+  </defs>
+
+  <rect width="900" height="220" rx="24" fill="url(#background)" />
+  <rect width="900" height="220" rx="24" fill="url(#grid)" />
+  <circle cx="80" cy="40" r="150" fill="url(#glow)" opacity=".22">
+    <animate attributeName="cx" values="80;820;80" dur="12s" repeatCount="indefinite" />
+  </circle>
+
+  <g fill="none" stroke="url(#accent)" stroke-linecap="round" opacity=".7">
+    <path d="M55 55H230" stroke-width="2" stroke-dasharray="10 14">
+      <animate attributeName="stroke-dashoffset" values="0;-48" dur="2s" repeatCount="indefinite" />
+    </path>
+    <path d="M670 165H845" stroke-width="2" stroke-dasharray="10 14">
+      <animate attributeName="stroke-dashoffset" values="0;48" dur="2s" repeatCount="indefinite" />
+    </path>
+  </g>
+
+  <g filter="url(#soft-glow)">
+    <circle r="5" fill="#38bdf8">
+      <animateMotion dur="7s" repeatCount="indefinite"><mpath href="#orbit" /></animateMotion>
+    </circle>
+    <circle r="4" fill="#c084fc">
+      <animateMotion dur="9s" begin="-4s" repeatCount="indefinite"><mpath href="#orbit" /></animateMotion>
+    </circle>
+  </g>
+
+  <g fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <text x="450" y="93" font-size="38" font-weight="700" letter-spacing="1">WESLEY MEIRELES</text>
+    <text x="450" y="126" font-size="16" fill="#7dd3fc" letter-spacing="5">FULL STACK DEVELOPER</text>
+    <text x="450" y="161" font-family="Consolas, monospace" font-size="14" fill="#a5b4fc">REACT  •  TYPESCRIPT  •  GO  •  SQL  •  RUST</text>
+  </g>
+
+  <g fill="url(#accent)" filter="url(#soft-glow)">
+    <circle cx="80" cy="165" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite" /></circle>
+    <circle cx="155" cy="35" r="2"><animate attributeName="opacity" values="1;.15;1" dur="1.8s" repeatCount="indefinite" /></circle>
+    <circle cx="735" cy="42" r="3"><animate attributeName="opacity" values=".15;1;.15" dur="2.8s" repeatCount="indefinite" /></circle>
+    <circle cx="825" cy="105" r="2"><animate attributeName="opacity" values="1;.2;1" dur="2.1s" repeatCount="indefinite" /></circle>
+  </g>
+
+  <rect x="1" y="1" width="898" height="218" rx="23" fill="none" stroke="url(#accent)" stroke-opacity=".55" />
+</svg>

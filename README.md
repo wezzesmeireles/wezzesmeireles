@@ -2,8 +2,12 @@
 
 <br />
 
+<img src="./assets/animated-banner.svg" width="100%" alt="Banner animado de Wesley Meireles com partículas e tecnologias em movimento" />
+
+<br />
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Wesley+Meireles+%F0%9F%91%8B;Desenvolvedor+Front-end+%2F+Full+Stack;Interfaces+modernas+e+solu%C3%A7%C3%B5es+escal%C3%A1veis;Sempre+aprendendo%2C+sempre+construindo" alt="Apresentação animada de Wesley Meireles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Wesley+Meireles+%F0%9F%91%8B;Desenvolvedor+Front-end+%2F+Full+Stack;React+%E2%80%A2+TypeScript+%E2%80%A2+Go+%E2%80%A2+SQL;Interfaces+modernas+e+solu%C3%A7%C3%B5es+escal%C3%A1veis;Sempre+aprendendo%2C+sempre+construindo" alt="Apresentação animada de Wesley Meireles" />
 </a>
 
 <p>
@@ -36,16 +40,29 @@ Desenvolvedor com foco no ecossistema web moderno, interfaces bem construídas e
 - Estilização escalável com Tailwind CSS e Sass.
 - Experiência de desenvolvimento e builds rápidos com Vite.
 
-### Back-end, desktop e dados
+### Back-end e linguagens
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,bun,python,rust,tauri,supabase,firebase&theme=dark&perline=7" alt="Node.js, Bun, Python, Rust, Tauri, Supabase e Firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,go,python,rust,tauri&theme=dark&perline=6" alt="Node.js, Bun, Go, Python, Rust e Tauri" />
 </p>
 
 - Serviços e APIs no ecossistema JavaScript/TypeScript com Node.js e Bun.
+- APIs e serviços eficientes, concorrentes e tipados com Go.
 - Aplicações desktop leves unindo interfaces web, Rust e Tauri.
-- Autenticação, persistência e serviços de back-end com Supabase e Firebase.
 - Python para automações, estudos e soluções orientadas a dados.
+
+### Bancos de dados e SQL
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase&theme=dark&perline=3" height="48" alt="PostgreSQL, Supabase e Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" height="48" alt="MariaDB" title="MariaDB" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white" height="48" alt="SQL" />
+</p>
+
+- Consultas, relacionamentos, filtros, agregações e modelagem com SQL.
+- Bancos relacionais com PostgreSQL e MariaDB.
+- Autenticação, persistência e recursos em tempo real com Supabase e Firebase.
+- Atenção à integridade dos dados, índices e desempenho das consultas.
 
 ### Ferramentas e fluxo de trabalho
 
@@ -64,7 +81,8 @@ Desenvolvedor com foco no ecossistema web moderno, interfaces bem construídas e
 | **Front-end** | Design responsivo, acessibilidade, estado, composição e performance |
 | **Integrações** | Consumo de APIs, autenticação, validação e tratamento de erros |
 | **Arquitetura** | Separação de responsabilidades, código limpo e componentes reutilizáveis |
-| **Dados** | Modelagem, persistência, serviços em tempo real e back-end como serviço |
+| **Back-end** | APIs, concorrência com Go, validação, autenticação e tratamento de erros |
+| **Dados e SQL** | Modelagem relacional, consultas, índices, PostgreSQL, MariaDB e serviços em tempo real |
 | **Entrega** | Git, documentação, automação, containers e melhoria contínua |
 
 ### 🚀 Em aprofundamento
